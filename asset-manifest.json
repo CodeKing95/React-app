@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CodeKing95/React-app/static/css/main.f855e6bc.css",
+    "main.js": "/CodeKing95/React-app/static/js/main.456343ed.js",
+    "static/js/453.8adef3d5.chunk.js": "/CodeKing95/React-app/static/js/453.8adef3d5.chunk.js",
+    "static/media/logo.svg": "/CodeKing95/React-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CodeKing95/React-app/index.html",
+    "main.f855e6bc.css.map": "/CodeKing95/React-app/static/css/main.f855e6bc.css.map",
+    "main.456343ed.js.map": "/CodeKing95/React-app/static/js/main.456343ed.js.map",
+    "453.8adef3d5.chunk.js.map": "/CodeKing95/React-app/static/js/453.8adef3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.456343ed.js"
+  ]
+}
